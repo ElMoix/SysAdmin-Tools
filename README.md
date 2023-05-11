@@ -7,13 +7,13 @@ All of them are made by Andreu Trepat Rubirola.
 
 ## pings.sh
 ```
-it's a script that makes 5 pings to 8.8.8.8 and 1.1.1.1 and save it to log file.
+Bash script that makes 5 pings to 8.8.8.8 and 1.1.1.1 and save it to a log file.
 ```
 ## checkservices.sh
 ```
-it's a script that checks the status of every service running on the machine and sends an email
+Bash script that checks the status of multiple services running on the machine and sends an email.
 ```
 ## beforeshutdown.sh
 ```
-it's a script that sends an email when the machine goes shutdown.
+Bash script that sends an email when the machine shutdown's or reboot.
 ```
