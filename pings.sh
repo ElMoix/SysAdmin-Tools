@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Cron:
 #*/15 * * * * /root/scripts/pings.sh
 
 pings="5"
